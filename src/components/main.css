@@ -1,0 +1,7 @@
+.main{
+/* background-color: aqua; */
+    height: 95vh;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-rows: 2fr 2fr 1.5fr;
+}
